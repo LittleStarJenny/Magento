@@ -1,1 +1,4 @@
-/phpunit.xml
+/*.xml
+!/etc/integration-tests-config.xml
+/var/
+/etc/*.php
